@@ -1,0 +1,496 @@
+TABLE, TR, TD, P, SPAN, DIV, PRE, SELECT, TEXTAREA, INPUT, Submit, Reset {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+input.fileText {
+	font-size: 13px;
+	background-color: #ffffff ;
+}
+
+.inputText {
+	font-size: 13px;
+	text-align: right; 
+	width: 100px;
+}
+
+.mediumText {
+	font-size: 11px;
+}
+
+.mediumText A:hover, .mediumText A:link, .mediumText A:visited {
+	font-size: 11px;
+	text-decoration: none;
+	color: #000000;
+}
+
+.accountText {
+	font-size: 13px;
+}
+
+.accountText A:hover, .accountText A:link, .accountText A:visited {
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.accountTextBold {
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #f0f0f0;
+}
+
+.largeText0 {
+	font-size: 13px;
+	background-color: #F7F7F7;
+}
+
+.largeText1 {
+	font-size: 13px;
+	background-color: #FFFFFF;
+}
+
+.largeText, .largeTextButton {
+	font-size: 13px;
+}
+
+.largeText A:hover, .largeText A:link, .largeText A:visited {
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.xlargeText {
+	font-size: 18px;
+}
+
+.errorText {
+	font-size: 13px; 
+	color: #FF0000;
+}
+
+.successText {
+	font-size: 13px; 
+	color: #008000;
+}
+
+.menuText, .menuText A:link, .menuText A:visited {
+	font-size: 13px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.menuText A:hover {
+	font-size: 13px;
+	text-decoration: none;
+	color: #ffff00;
+	font-weight: bold;
+}
+
+.menuText A:active {
+	font-size: 13px;
+	color: white;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.menuTextSelected, .menuTextSelected A:visited, .menuTextSelected A:link  {
+	font-size: 13px;
+	text-decoration: none;
+	color: #FFD3A8;
+	font-weight: bold;
+}
+
+.menuTextSelected A:active  {
+	font-size: 13px;
+	text-decoration: none;
+	color: #FFD3A8;
+	font-weight: bold;
+}
+
+.copyright, .copyright A:hover, .copyright A:link, .copyright A:visited   {
+	color: white;
+	font-size: 9px;
+	text-decoration: none;
+}
+
+.Row0 {
+	background-color: white;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.Row0 A:visited, .Row0 A:link, .Row0 A:hover {
+	background-color: white;
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.Row1 {
+	background-color: #f0f0f0;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.Row1 A:visited, .Row1 A:link, .Row1 A:hover {
+	background-color: #f0f0f0;
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.RowNFA {
+	background-color: #ffff99;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowSite {
+	background-color: #b8cce4;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowFinance {
+	background-color: #ccc0da;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowSummary {
+	background-color: #ccf5cc;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowRed {
+	background-color: #ff4d4d;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowRed A:visited, .RowRed A:link, .RowRed A:hover {
+	background-color: #ff4d4d;
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.RowYellow {
+	background-color: #ffff00;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.RowYellow A:visited, .RowYellow A:link, .RowYellow A:hover {
+	background-color: #ffff00;
+	font-size: 13px;
+	text-decoration: none;
+	color: blue;
+}
+
+.ServiceListHeader {
+	color: #000000;
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #d6d6d6;
+}
+
+.AccessListHeader {
+	color: #000000;
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #b3ecec;
+}
+
+.ListHeaderBlue {
+	font-size: 13px;
+	background-color: #BDD7EE;
+	font-weight: bold ;
+}
+
+.TotalRowOrange {
+	font-size: 13px;
+	background-color: #FFD3A8;
+	font-weight: bold ;
+}
+
+.siteText {
+	background-color: #d6d6d6;
+	font-size: 15px; 
+	padding-left: 2px; 
+	text-decoration: none;
+}
+
+.inputNum {
+	background-color: white;
+	font-size: 13px;
+	text-decoration: none; 
+	text-align:right;
+}
+
+.ScopingText {
+	background-color: #d6d6d6;
+	font-size: 13px; 
+	padding-left: 2px; 
+	text-decoration: none;
+}
+
+.WBSHeaderBlue {
+	font-size: 13px;
+	background-color: #BDD7EE ;
+}
+
+.CompleteButton {
+	color: #000000;
+	font-size: 8px; 
+	background-color: #F0F0F0;
+}
+
+.ReportBody0 {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #FFFFFF;
+}
+
+.ReportBody1 {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #F5F5F5;
+}
+
+.ReportBodyWhite {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #FFFFFF;
+}
+
+.ReportBodyOrange {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #F2B087;
+}
+
+.ReportBodyYellow {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #F8DA9A;
+}
+
+.ReportBodyBlue {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #99B1CA;
+}
+
+.ReportBodyIndigo {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #CE93B7;
+}
+
+.ReportBodyGreen {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #80B9BB;
+}
+
+.ReportBodyGrey {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #E7E6E6;
+}
+
+.ReportBodyViolet {
+	color: #FFFFFF;
+	font-size: 13px; 
+	background-color: #7F00FF;
+}
+
+.ReportBodyRed {
+	color: #FFFFFF;
+	font-size: 13px; 
+	background-color: #FF0000;
+}
+
+.ReportBodyIrish {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #00cc00;
+}
+
+.ReportBodyOJ {
+	color: #FFFFFF;
+	font-size: 13px; 
+	background-color: #ff6500;
+}
+
+.HStext {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #FFFFCC;
+}
+
+.MStext {
+	color: #000000;
+	font-size: 13px; 
+	background-color: #F0F0F0;
+}
+
+.MStextt A:hover, .MStext A:link, .MStext A:visited {
+	color: blue;
+	font-size: 13px;
+	background-color: #F0F0F0;
+	text-decoration: none;
+}
+
+.StatRed {
+	color: #ffffff;
+	font-size: 13px;  
+	background-color: #FF0000;
+}
+
+.StatYellow {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #FFFF00;
+}
+
+.StatGreen {
+	color: #ffffff;
+	font-size: 13px;  
+	background-color: #008000;
+}
+
+.StatOrange {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #ffa500;
+}
+
+.StatBlack {
+	color: #ffffff;
+	font-size: 13px;  
+	background-color: #000000;
+}
+
+.StatSilver {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #c0c0c0;
+}
+
+.StatWhite {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #ffffff;
+}
+
+.ERPForestGreen {
+	color: #ffffff;
+	font-size: 13px;  
+	background-color: #228B22;
+}
+
+.ERPRed {
+	color:  #ffffff;
+	font-size: 13px;  
+	background-color: #FF0000;
+}
+
+.ERPLightBlue {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #ADD8E6;
+}
+
+.ERPOrange {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #FFA500;
+}
+
+.ERPBrightCeruleanBlue {
+	color: #ffffff;
+	font-size: 13px;  
+	background-color: #1DACD6;
+}
+
+.ERPYellow {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #FFFF00;
+}
+
+.ERPGray {
+	color: #FFFFFF;
+	font-size: 13px;  
+	background-color: #808080;
+}
+
+.ERPWhite {
+	color: #000000;
+	font-size: 13px;  
+	background-color: #FFFFFF;
+}
+
+.websitemenu, .websitemenu A:link, .websitemenu A:visited {
+	font-size: 10px;
+	color: white;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+.websitemenu A:hover {
+	font-size: 10px;
+	text-decoration: none;
+	color: #ffff00;
+	font-weight: bold;
+}
+
+.websitemenuselected, .websitemenuselected A:link, .websitemenuselected A:visited, .websitemenuselected A:hover {
+	font-size: 10px;
+	text-decoration: none;
+	color: #ffff00;
+	font-weight: bold;
+}
+
+.ProjStatGreen {
+	background-color: #00B050;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.ProjStatRed {
+	background-color: #FF0000;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.ProjStatYellow {
+	background-color: #FFFF00;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.ListHeaderSilver {
+	font-size: 13px;
+	background-color: #E0E0E0 ;
+	font-weight: bold ;
+}
+
+.helpText {
+	background-color: #fafafa;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.Blue0 {
+	font-size: 13px;
+	background-color: #ffffff ;
+}
+.Blue1 {
+	font-size: 13px;
+	background-color: #deebf6 ;
+}
